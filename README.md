@@ -1,5 +1,5 @@
 Added my name and github account to the project just like for what it was indended for.
-forked the repo and added it to my repo collection.
+forked the repo, added it to my local vscode and added it to my repo collection.
 
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
