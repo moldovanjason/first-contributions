@@ -1,6 +1,7 @@
 Added my name and github account to the project just like for what it was indended for.
 forked the repo and added it to my local vscode and added it to my repo collection.
-added my contribution to the app.
+added my contribution to the application.
+
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-mog68oas-dFnCPhZzJMd9A9dboJhi2g)
